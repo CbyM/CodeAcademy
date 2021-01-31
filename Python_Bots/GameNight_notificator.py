@@ -1,3 +1,6 @@
+# Calculates frequency table of players available for a certain day and sends them a personalized message.
+# Send a message to those players unable to attend the first game and calculate availabiity for alternative day. 
+
 
 gamers = []
 
