@@ -1,1 +1,1 @@
-Python programs from CodeAcademy
+Python programs from various CodeAcademy courses
